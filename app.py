@@ -49,7 +49,7 @@ app = Flask(__name__)
 # Flask route for status checking
 @app.route('/')
 def hello():
-    return 'Hello Mate'
+    return 'Hello Friend!'
 
 # Method to check file name extension
 def check_file(filename):
