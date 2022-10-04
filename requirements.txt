@@ -12,3 +12,4 @@ imblearn==0.0
 scikit_learn==1.0
 Flask==2.0.2
 gunicorn
+protobuf<=3.20.1
